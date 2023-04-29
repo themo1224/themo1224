@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**themo1224/themo1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills / Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `<? php ?>` good
+- `{{ Laravel }}` good
+- `python` good
+- `JavaScript` & `$(jQuery)` good
+- `<HTML>` + `{CSS}` great
+- `DATABASE` & `SQL` good
+- `Git` great
+- `wordpress` great
+
+## Portfolios
+
+- shahinhost.com
+- irsmartcity.ir
+- lepsicur.com
+- best-win.ir
