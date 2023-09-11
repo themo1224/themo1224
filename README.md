@@ -18,3 +18,5 @@
 - irsmartcity.ir
 - lepsicur.com
 - best-win.ir
+- spadpost.com
+- gilanianasnaf.ir
