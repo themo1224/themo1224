@@ -56,16 +56,10 @@ Enhancing the backend of a **footage marketplace** with focus on:
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
-## 📈 GitHub Metrics
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=anuraghazra&theme=radical&hide_border=true)
-  
-</div>
 
 ## 📫 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/blumy/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamadali-mahboobi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mahboobimohamadali@gmail.com" target="_blank">
